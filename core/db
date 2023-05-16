@@ -1,1 +1,22 @@
-Tenho que assistir as aulas e estudar!!
+{
+  "todos": [
+    {
+      "id": "286dcc72-a739-4bf5-af3c-2fa77351b06b",
+      "date": "2023-05-16T19:38:35.762Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "id": "44c42250-4210-4c4b-ab03-cf900abdd9c1",
+      "date": "2023-05-16T19:38:35.763Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "id": "33b25e8e-e342-478a-bb89-0a5262560d0c",
+      "date": "2023-05-16T19:38:35.763Z",
+      "content": "Atualizada!!",
+      "done": false
+    }
+  ]
+}
